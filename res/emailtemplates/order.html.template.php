@@ -242,7 +242,7 @@
             <h3 style="font-size: 1.11em"><?php echo $l10n->get('cart_payment') ?></h3>
             <?php echo nl2br($orderData['payment']['name']) ?>
             <?php if ($showCustomerMessages): ?>
-            <div><?php echo nl2br($orderData['payment']['email_text']) . ($orderData['payment']['html'] != "" ? '<div style="text-align: center; margin-top: 20px;">' . $orderData['payment']['html'] : "") ?></div>
+            <div></div>
             <?php endif; ?>
         </td>
     </tr>

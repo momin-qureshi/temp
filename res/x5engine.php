@@ -2517,8 +2517,8 @@ class ImCart {
         global $imSettings;
         global $ImMailer;
 
-        $orderData = $filters['order'] ? $this->applyFilter($this->orderData, $filters['order']) : $this->orderData;
-        $settings = $filters['settings'] ? $this->applyFilter($this->settings, $filters['settings']) : $this->settings;
+        $orderData = $this->orderData;
+        $settings = $this->settings;
 
         // Text Message
         $template = new Template($this->emailTemplates["order_text"]);
