@@ -16,7 +16,7 @@ $imSettings['general'] = array(
 	'lang_code' => 'en-GB',
 	'public_folder' => '',
 	'salt' => 'tt50ceqm8t1d1eyorjws47wcw069h52eyns3tmmvid3o36gg8hwnkrslwt4b8',
-	'common_email_sender_addres' => 'noreply@talha-t.websitex5.me'
+	'common_email_sender_addres' => 'jackie@queenofthesweets.com'
 );
 /*
 |-------------------------------
