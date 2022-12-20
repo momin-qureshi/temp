@@ -9,7 +9,7 @@
 		<meta name="generator" content="Incomedia WebSite X5 Pro 2022.2.11 - www.websitex5.com" />
 		<meta property="og:locale" content="en" />
 		<meta property="og:type" content="website" />
-		<meta property="og:url" content="http://localhost/imsearch.php" />
+		<meta property="og:url" content="https://queenofthesweets.com/imsearch.php" />
 		<meta property="og:title" content="Search" />
 		<meta property="og:site_name" content="Queen of the Sweets" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />

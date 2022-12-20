@@ -4,8 +4,8 @@ var x5CartData = {
 		'indexpage': 'cart/index.html',
 		'indexsearchpage': 'cartsearch/index.html',
 		'loginpage': '',
-		'continue_shopping_page': 'http://localhost/cartsearch/index.html',
-		'searchpage_url': 'http://localhost/cartsearch/index.html',
+		'continue_shopping_page': 'https://queenofthesweets.com/cartsearch/index.html',
+		'searchpage_url': 'https://queenofthesweets.com/cartsearch/index.html',
 		'vat': 0,
 		'vatName': '',
 		'vattype': 'none', // included|excluded|none
@@ -113,7 +113,7 @@ var x5CartData = {
 			'schemaOrg': {
 				'@type': 'Product',
 				'name': 'COOKIE CAKE',
-				'image': 'http://localhost/images/Cookie-Cake_78pa7pu9.597eb0cc67aceeadb43a.png',
+				'image': 'https://queenofthesweets.com/images/Cookie-Cake_78pa7pu9.597eb0cc67aceeadb43a.png',
 				'description': 'Looking for a fun alternative to a birthday cake? This sweet & chewy Chocolate Chip Cookie Cake is the perfect choice for your next birthday celebration!  Comes in many options and variations.',
 				'offers': {
 					'@type': 'Offer',
@@ -208,7 +208,7 @@ var x5CartData = {
 			'schemaOrg': {
 				'@type': 'Product',
 				'name': 'PINA COLADA CAKE',
-				'image': 'http://localhost/images/Pina-Colada-Cake-PhotoRoom_bjb6jw39.png',
+				'image': 'https://queenofthesweets.com/images/Pina-Colada-Cake-PhotoRoom_bjb6jw39.png',
 				'description': 'This cake turns your favorite tropical cocktail into one delicious dessert! Coconut cake and pineapple buttercream frosting paired with pineapple mousse and toasted coconut.\n',
 				'offers': {
 					'@type': 'Offer',
@@ -303,7 +303,7 @@ var x5CartData = {
 			'schemaOrg': {
 				'@type': 'Product',
 				'name': 'COFFEE CAKE',
-				'image': 'http://localhost/images/UPDATED-Coffee-cake_e202x4p4.5eaee1189e3d73674077.png',
+				'image': 'https://queenofthesweets.com/images/UPDATED-Coffee-cake_e202x4p4.5eaee1189e3d73674077.png',
 				'description': 'A tender, perfectly moist cake with the enticing aroma, ribbons of cinnamon filling, and hallmark crumb topping make it a treat at breakfast or as a midday indulgence. Made with just a few pantry staples, coffee cake is a deliciously effortless way to start the day. ',
 				'offers': {
 					'@type': 'Offer',
@@ -421,7 +421,7 @@ var x5CartData = {
 			'schemaOrg': {
 				'@type': 'Product',
 				'name': 'CARROT CAKE',
-				'image': 'http://localhost/images/UPDATED-CarrotCake_a777eibm.83524e1a7e976398f8bc.png',
+				'image': 'https://queenofthesweets.com/images/UPDATED-CarrotCake_a777eibm.83524e1a7e976398f8bc.png',
 				'description': 'Taste the freshness in every bite of this rich carrot cake. This delicious spice cake is speckled with freshly grated carrots, coconut, raisins, walnuts, and a coconut cream cheese filling.',
 				'offers': {
 					'@type': 'Offer',
@@ -539,7 +539,7 @@ var x5CartData = {
 			'schemaOrg': {
 				'@type': 'Product',
 				'name': 'STRAWBERRY CAKE',
-				'image': 'http://localhost/images/UPDATED-Strawberry-Cake_dz03qr1v.b1238ea746eaa7aae8b3.png',
+				'image': 'https://queenofthesweets.com/images/UPDATED-Strawberry-Cake_dz03qr1v.b1238ea746eaa7aae8b3.png',
 				'description': 'With each bite, you get the perfect amount of sweetness and zest from the strawberries. While the strawberries bake down, the natural sugars are released into the vanilla batter amplifying that delicious flavor.',
 				'offers': {
 					'@type': 'Offer',
@@ -657,7 +657,7 @@ var x5CartData = {
 			'schemaOrg': {
 				'@type': 'Product',
 				'name': 'CHOCOLATE MINT CAKE',
-				'image': 'http://localhost/images/UPDATED-ChocolateMint_trp6kzxf.3a0094ccd664c76797b7-1-.png',
+				'image': 'https://queenofthesweets.com/images/UPDATED-ChocolateMint_trp6kzxf.3a0094ccd664c76797b7-1-.png',
 				'description': 'The PERFECT combo of indulgent chocolate and mint frosting, made with cocoa powder, and peppermint buttercream.',
 				'offers': {
 					'@type': 'Offer',
@@ -775,7 +775,7 @@ var x5CartData = {
 			'schemaOrg': {
 				'@type': 'Product',
 				'name': 'CHOCOLATE PEANUT BUTTER CAKE',
-				'image': 'http://localhost/images/UPDATED-ChocolatePeanut_p7zwdj42.66ebf1433798655c6e79--1-.png',
+				'image': 'https://queenofthesweets.com/images/UPDATED-ChocolatePeanut_p7zwdj42.66ebf1433798655c6e79--1-.png',
 				'description': 'This is a peanut lover’s dream dessert! A dark chocolate cake with peanut butter buttercream frosting topped with chocolate ganache makes this peanut butter cake decadent and delicious!',
 				'offers': {
 					'@type': 'Offer',
@@ -893,7 +893,7 @@ var x5CartData = {
 			'schemaOrg': {
 				'@type': 'Product',
 				'name': 'CREAMSICLE CAKE',
-				'image': 'http://localhost/images/UPDATED-CREAMSICLE_926qns7s.362d89f15bfb853bc890--1-.png',
+				'image': 'https://queenofthesweets.com/images/UPDATED-CREAMSICLE_926qns7s.362d89f15bfb853bc890--1-.png',
 				'description': 'Looking for a flavorful dessert treat? This cake brings you the best of two worlds and it is stated in name…Creamsicle and Cake. Made with vanilla cake, orange buttercream with an orange mousse filling.',
 				'offers': {
 					'@type': 'Offer',
@@ -1011,7 +1011,7 @@ var x5CartData = {
 			'schemaOrg': {
 				'@type': 'Product',
 				'name': 'CHOCOLATE STRAWBERRY CAKE',
-				'image': 'http://localhost/images/CHOCOLATE-STRAWBERRY-CAKE-copy.png',
+				'image': 'https://queenofthesweets.com/images/CHOCOLATE-STRAWBERRY-CAKE-copy.png',
 				'description': 'This Chocolate Strawberry Cake is a moist chocolate layer cake with a strawberry mousse filling and covered in a chocolate strawberry ganache. Topped with fresh strawberries.',
 				'offers': {
 					'@type': 'Offer',
@@ -1129,7 +1129,7 @@ var x5CartData = {
 			'schemaOrg': {
 				'@type': 'Product',
 				'name': 'CARAMEL MACCHIATO CAKE',
-				'image': 'http://localhost/images/CARAMEL-MACCHIATO-CAKE--2--copy.png',
+				'image': 'https://queenofthesweets.com/images/CARAMEL-MACCHIATO-CAKE--2--copy.png',
 				'description': 'This cake embodies everything the latte boasts. A rich vanilla cake layered with smooth and silky expresso buttercream and finished with drizzles of caramel. The cake has a bold coffee flavor that is well balanced with the sweet caramel topping.',
 				'offers': {
 					'@type': 'Offer',
@@ -1247,7 +1247,7 @@ var x5CartData = {
 			'schemaOrg': {
 				'@type': 'Product',
 				'name': 'DULCE DE LECHE CAKE',
-				'image': 'http://localhost/images/20220708_184649-copy.png',
+				'image': 'https://queenofthesweets.com/images/20220708_184649-copy.png',
 				'description': 'This delightful cake features soft and moist butter cake layers filled and iced with heavenly sweet caramel buttercream frosting topped with a salted caramel sauce. You cannot resist the deep flavor of the luscious caramel sauce that is dulce de leche.',
 				'offers': {
 					'@type': 'Offer',
@@ -1365,7 +1365,7 @@ var x5CartData = {
 			'schemaOrg': {
 				'@type': 'Product',
 				'name': 'GERMAN CHOCOLATE CAKE',
-				'image': 'http://localhost/images/GERMAN-CHOCOLATE-CAKE--2--copy.png',
+				'image': 'https://queenofthesweets.com/images/GERMAN-CHOCOLATE-CAKE--2--copy.png',
 				'description': 'This cake is a classic! The moist chocolate cake paired with the coconut pecan filling and the chocolate frosting is just delicious together!',
 				'offers': {
 					'@type': 'Offer',
@@ -1483,7 +1483,7 @@ var x5CartData = {
 			'schemaOrg': {
 				'@type': 'Product',
 				'name': 'WHITE CHOCOLATE CAKE',
-				'image': 'http://localhost/images/WHITE-CHOCOLATE-CAKE-copy.png',
+				'image': 'https://queenofthesweets.com/images/WHITE-CHOCOLATE-CAKE-copy.png',
 				'description': 'This white chocolate raspberry cake features two layers of white chocolate cake, a sweet-tart raspberry mousse, and plenty of white chocolate buttercream finished with fresh raspberries on top!',
 				'offers': {
 					'@type': 'Offer',
@@ -1601,7 +1601,7 @@ var x5CartData = {
 			'schemaOrg': {
 				'@type': 'Product',
 				'name': 'PEAR UPSIDE-DOWN CAKE',
-				'image': 'http://localhost/images/IMG_0045-copy.png',
+				'image': 'https://queenofthesweets.com/images/IMG_0045-copy.png',
 				'description': 'Caramelized bottom with fresh pears and a spiced cake layer. This pear upside-down cake is perfect for fall entertaining.',
 				'offers': {
 					'@type': 'Offer',
@@ -1686,7 +1686,7 @@ var x5CartData = {
 			'schemaOrg': {
 				'@type': 'Product',
 				'name': 'CINNAMON WALNUT BISCOTTI',
-				'image': 'http://localhost/images/UPDATED-CINNAMON-WALNUT-BISCOTTI_me7rq9ld.6760dfcd24e032681bfa--1-.png',
+				'image': 'https://queenofthesweets.com/images/UPDATED-CINNAMON-WALNUT-BISCOTTI_me7rq9ld.6760dfcd24e032681bfa--1-.png',
 				'description': '',
 				'offers': {
 					'@type': 'Offer',
@@ -1794,7 +1794,7 @@ var x5CartData = {
 			'schemaOrg': {
 				'@type': 'Product',
 				'name': 'ORANGE CRANBERRY BISCOTTI',
-				'image': 'http://localhost/images/Orange-Cranberry-Biscotti-v2-copy.png',
+				'image': 'https://queenofthesweets.com/images/Orange-Cranberry-Biscotti-v2-copy.png',
 				'description': '',
 				'offers': {
 					'@type': 'Offer',
@@ -1902,7 +1902,7 @@ var x5CartData = {
 			'schemaOrg': {
 				'@type': 'Product',
 				'name': 'VANNILLA ALMOND BISCOTTI',
-				'image': 'http://localhost/images/VANNILLA-ALMOND-BISCOTTI--7--copy.png',
+				'image': 'https://queenofthesweets.com/images/VANNILLA-ALMOND-BISCOTTI--7--copy.png',
 				'description': '',
 				'offers': {
 					'@type': 'Offer',
@@ -2010,7 +2010,7 @@ var x5CartData = {
 			'schemaOrg': {
 				'@type': 'Product',
 				'name': 'CHOCOLATE BISCOTTI',
-				'image': 'http://localhost/images/Chocolate-Biscotti-v2-copy.png',
+				'image': 'https://queenofthesweets.com/images/Chocolate-Biscotti-v2-copy.png',
 				'description': '',
 				'offers': {
 					'@type': 'Offer',
@@ -2118,7 +2118,7 @@ var x5CartData = {
 			'schemaOrg': {
 				'@type': 'Product',
 				'name': 'LINZER TARTS',
-				'image': 'http://localhost/images/Linzer-Tarts-v5-copy.png',
+				'image': 'https://queenofthesweets.com/images/Linzer-Tarts-v5-copy.png',
 				'description': 'Nothing could be more festive on the holiday table than a tray of these buttery, confectioners\' sugar-dusted, jam-packed cookies. The hint of lemon in the dough nicely complements any number of fillings, from raspberry jam to lemon curd.',
 				'offers': {
 					'@type': 'Offer',
@@ -2203,7 +2203,7 @@ var x5CartData = {
 			'schemaOrg': {
 				'@type': 'Product',
 				'name': 'RAINBOW COOKIES',
-				'image': 'http://localhost/images/Rainbow-Cookies-PhotoRoom_r696s1wc.png',
+				'image': 'https://queenofthesweets.com/images/Rainbow-Cookies-PhotoRoom_r696s1wc.png',
 				'description': 'Layers of almond cake are sandwiched with raspberry jam before getting coated in chocolate for the prettiest and most delicious rainbow cookies you\'ve ever had.',
 				'offers': {
 					'@type': 'Offer',
@@ -2294,7 +2294,7 @@ var x5CartData = {
 			'schemaOrg': {
 				'@type': 'Product',
 				'name': '48 ASSORTED COOKIES',
-				'image': 'http://localhost/images/48-Assortment-Cokkies-copy.png',
+				'image': 'https://queenofthesweets.com/images/48-Assortment-Cokkies-copy.png',
 				'description': '',
 				'offers': {
 					'@type': 'Offer',
@@ -2385,7 +2385,7 @@ var x5CartData = {
 			'schemaOrg': {
 				'@type': 'Product',
 				'name': '36 ASSORTED COOKIES',
-				'image': 'http://localhost/images/36-Assorted-Cookies-copy.png',
+				'image': 'https://queenofthesweets.com/images/36-Assorted-Cookies-copy.png',
 				'description': '',
 				'offers': {
 					'@type': 'Offer',
@@ -2488,7 +2488,7 @@ var x5CartData = {
 			'schemaOrg': {
 				'@type': 'Product',
 				'name': 'APPLE PIE',
-				'image': 'http://localhost/images/Apple-Pie.png',
+				'image': 'https://queenofthesweets.com/images/Apple-Pie.png',
 				'description': 'There’s nothing better than the smell of the fresh apple pie baking in the oven. It signifies the start of cozy fall days, and it’s the ultimate dessert to kick off the holiday season. Apple pie is best served warm with a big scoop of vanilla ice cream on top.',
 				'offers': {
 					'@type': 'Offer',
@@ -2591,7 +2591,7 @@ var x5CartData = {
 			'schemaOrg': {
 				'@type': 'Product',
 				'name': 'CHERRY PIE',
-				'image': 'http://localhost/images/Cherry-Pie.png',
+				'image': 'https://queenofthesweets.com/images/Cherry-Pie.png',
 				'description': 'Too tart to eat raw, sour cherries were born to be baked into a pie. This all-American version gets added sophistication from a gorgeously flaky crust and a filling, enhanced with an unexpected hint of cinnamon that is not overly sweet.',
 				'offers': {
 					'@type': 'Offer',
@@ -2694,7 +2694,7 @@ var x5CartData = {
 			'schemaOrg': {
 				'@type': 'Product',
 				'name': 'LEMON MERINGUE',
-				'image': 'http://localhost/images/Lemon-Meringue.png',
+				'image': 'https://queenofthesweets.com/images/Lemon-Meringue.png',
 				'description': 'Want to know what sunshine tastes like? Then try this lemon meringue pie. It’s bursting with fresh citrus flavor topped with a sweet, creamy meringue topping.',
 				'offers': {
 					'@type': 'Offer',
@@ -2785,7 +2785,7 @@ var x5CartData = {
 			'schemaOrg': {
 				'@type': 'Product',
 				'name': 'ANIMAL BIRTHDAY CAKE',
-				'image': 'http://localhost/images/Animal-Birthday-Cake-v1-copy-2.png',
+				'image': 'https://queenofthesweets.com/images/Animal-Birthday-Cake-v1-copy-2.png',
 				'description': '',
 				'offers': {
 					'@type': 'Offer',
@@ -2876,7 +2876,7 @@ var x5CartData = {
 			'schemaOrg': {
 				'@type': 'Product',
 				'name': 'FLOWER BIRTHDAY CAKE',
-				'image': 'http://localhost/images/Flower-Birthday-Cake-copy.png',
+				'image': 'https://queenofthesweets.com/images/Flower-Birthday-Cake-copy.png',
 				'description': '',
 				'offers': {
 					'@type': 'Offer',
@@ -2967,7 +2967,7 @@ var x5CartData = {
 			'schemaOrg': {
 				'@type': 'Product',
 				'name': 'NOAH\'S ARK',
-				'image': 'http://localhost/images/Noahs-Ark-v1-copy.png',
+				'image': 'https://queenofthesweets.com/images/Noahs-Ark-v1-copy.png',
 				'description': '',
 				'offers': {
 					'@type': 'Offer',
@@ -3058,7 +3058,7 @@ var x5CartData = {
 			'schemaOrg': {
 				'@type': 'Product',
 				'name': 'PAINTER\'S BIRTHDAY CAKE',
-				'image': 'http://localhost/images/Painters-Birthday-Cake-V1-copy.png',
+				'image': 'https://queenofthesweets.com/images/Painters-Birthday-Cake-V1-copy.png',
 				'description': '',
 				'offers': {
 					'@type': 'Offer',
@@ -3149,7 +3149,7 @@ var x5CartData = {
 			'schemaOrg': {
 				'@type': 'Product',
 				'name': 'PENGUINS ON ICE',
-				'image': 'http://localhost/images/IMG_0272-copy.png',
+				'image': 'https://queenofthesweets.com/images/IMG_0272-copy.png',
 				'description': '',
 				'offers': {
 					'@type': 'Offer',
@@ -3240,7 +3240,7 @@ var x5CartData = {
 			'schemaOrg': {
 				'@type': 'Product',
 				'name': 'POKER LOVER CAKE',
-				'image': 'http://localhost/images/Poker-Lover-Cake-copy.png',
+				'image': 'https://queenofthesweets.com/images/Poker-Lover-Cake-copy.png',
 				'description': '',
 				'offers': {
 					'@type': 'Offer',
@@ -3331,7 +3331,7 @@ var x5CartData = {
 			'schemaOrg': {
 				'@type': 'Product',
 				'name': 'RACOONS IN FOREST',
-				'image': 'http://localhost/images/IMG_0671-copy.png',
+				'image': 'https://queenofthesweets.com/images/IMG_0671-copy.png',
 				'description': '',
 				'offers': {
 					'@type': 'Offer',
@@ -3422,7 +3422,7 @@ var x5CartData = {
 			'schemaOrg': {
 				'@type': 'Product',
 				'name': 'ROBLOX BIRTHDAY CAKE',
-				'image': 'http://localhost/images/Roblox-Birthday-Cake-v1-copy.png',
+				'image': 'https://queenofthesweets.com/images/Roblox-Birthday-Cake-v1-copy.png',
 				'description': '',
 				'offers': {
 					'@type': 'Offer',
@@ -3513,7 +3513,7 @@ var x5CartData = {
 			'schemaOrg': {
 				'@type': 'Product',
 				'name': 'WATERMELON CAKE',
-				'image': 'http://localhost/images/Watermelon-Cake--1--copy.png',
+				'image': 'https://queenofthesweets.com/images/Watermelon-Cake--1--copy.png',
 				'description': '',
 				'offers': {
 					'@type': 'Offer',
@@ -3604,7 +3604,7 @@ var x5CartData = {
 			'schemaOrg': {
 				'@type': 'Product',
 				'name': 'WEDDING CAKE',
-				'image': 'http://localhost/images/Wedding-Cake--1-copy.png',
+				'image': 'https://queenofthesweets.com/images/Wedding-Cake--1-copy.png',
 				'description': '',
 				'offers': {
 					'@type': 'Offer',
@@ -3695,7 +3695,7 @@ var x5CartData = {
 			'schemaOrg': {
 				'@type': 'Product',
 				'name': 'HALLOWEEN BIRTHDAY CAKE',
-				'image': 'http://localhost/images/Halloween-Birthday-Cake-v1-copy.png',
+				'image': 'https://queenofthesweets.com/images/Halloween-Birthday-Cake-v1-copy.png',
 				'description': '',
 				'offers': {
 					'@type': 'Offer',
@@ -3786,7 +3786,7 @@ var x5CartData = {
 			'schemaOrg': {
 				'@type': 'Product',
 				'name': 'MERMAID CAKE',
-				'image': 'http://localhost/images/Mermaid-Cake-copy.png',
+				'image': 'https://queenofthesweets.com/images/Mermaid-Cake-copy.png',
 				'description': '',
 				'offers': {
 					'@type': 'Offer',

@@ -1,0 +1,2 @@
+[20-Dec-2022 06:29:38 UTC] PHP Warning:  mail() expects at most 5 parameters, 6 given in /home2/mcseadeals/queenofthesweats.mcseadeals.com/website/sentMail.php on line 28
+[20-Dec-2022 06:29:38 UTC] PHP Warning:  mail() expects at most 5 parameters, 6 given in /home2/mcseadeals/queenofthesweats.mcseadeals.com/website/sentMail.php on line 29

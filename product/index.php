@@ -12,7 +12,7 @@
 		<meta name="keywords" content="<?php echo isset($product['seo']['tagKeywords']) ? $product['seo']['tagKeywords'] : ''; ?>" />
 		<meta property="og:locale" content="en" />
 		<meta property="og:type" content="website" />
-		<meta property="og:url" content="http://localhost/product/?<?php echo isset($product['slug']) ? $product['slug'] : ''; ?>" />
+		<meta property="og:url" content="https://queenofthesweets.com/product/?<?php echo isset($product['slug']) ? $product['slug'] : ''; ?>" />
 		<meta property="og:title" content="<?php echo isset($product['name']) ? $product['name'] : ''; ?>" />
 		<meta property="og:site_name" content="Queen of the Sweets" />
 		<meta property="og:description" content="<?php echo isset($product['seo']['tagDescription']) ? $product['seo']['tagDescription'] : ''; ?>" />

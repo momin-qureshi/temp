@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 	<url>
-		<loc>http://localhost/index.html</loc>
+		<loc>https://queenofthesweets.com/index.html</loc>
 		<lastmod>2022-12-08</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://localhost/about-me-1.html</loc>
+		<loc>https://queenofthesweets.com/about-me-1.html</loc>
 		<lastmod>2022-12-08</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://localhost/cakes.html</loc>
+		<loc>https://queenofthesweets.com/cakes.html</loc>
 		<lastmod>2022-12-13</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://localhost/pies.html</loc>
+		<loc>https://queenofthesweets.com/pies.html</loc>
 		<lastmod>2022-12-13</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://localhost/cookies---biscotti.html</loc>
+		<loc>https://queenofthesweets.com/cookies---biscotti.html</loc>
 		<lastmod>2022-12-13</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://localhost/custom-cakes.html</loc>
+		<loc>https://queenofthesweets.com/custom-cakes.html</loc>
 		<lastmod>2022-12-13</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>

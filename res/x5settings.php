@@ -8,8 +8,8 @@
 
 $imSettings['general'] = array(
 	'site_id' => '48E81B5CFBF6DAF2ACDF53F2D1DAF4F5',
-	'url' => 'http://localhost/',
-	'homepage_url' => 'http://localhost/index.html',
+	'url' => 'https://queenofthesweets.com/',
+	'homepage_url' => 'https://queenofthesweets.com/index.html',
 	'icon' => '',
 	'version' => '2022.2.11.0',
 	'sitename' => 'Queen of the Sweets',
@@ -77,7 +77,7 @@ $couponData['products'] = array();
 $ecommerce->setPublicFolder('');
 $ecommerce->setCouponData($couponData);
 $ecommerce->setSettings(array(
-	'page_url' => 'http://localhost/cart/index.html',
+	'page_url' => 'https://queenofthesweets.com/cart/index.html',
 	'force_sender' => false,
 	'mail_btn_css' => 'display: inline-block; text-decoration: none; color: rgba(0, 255, 255, 1); background-color: rgba(98, 89, 147, 1); padding: 37px 52px 37px 52px; border-style: solid; border-width: 4px 4px 4px 4px; border-color: rgba(0, 255, 255, 1) rgba(0, 255, 255, 1) rgba(0, 255, 255, 1) rgba(0, 255, 255, 1); border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-left-radius: 0px; border-bottom-right-radius: 0px;',
 	'email_opening' => 'Dear Customer,<br /><br />Thank you for your order. Our representative will contact you within 24 business hours.<br /><br />Below is the list of the products you have ordered.',
@@ -181,7 +181,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/png',
-			'url' => 'http://localhost/images/Cookie-Cake_78pa7pu9.597eb0cc67aceeadb43a.png',
+			'url' => 'https://queenofthesweets.com/images/Cookie-Cake_78pa7pu9.597eb0cc67aceeadb43a.png',
 			'width' => 1080,
 			'height' => 1080
 		),
@@ -243,7 +243,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'COOKIE CAKE',
-			'image' => 'http://localhost/images/Cookie-Cake_78pa7pu9.597eb0cc67aceeadb43a.png',
+			'image' => 'https://queenofthesweets.com/images/Cookie-Cake_78pa7pu9.597eb0cc67aceeadb43a.png',
 			'description' => 'Looking for a fun alternative to a birthday cake? This sweet & chewy Chocolate Chip Cookie Cake is the perfect choice for your next birthday celebration!  Comes in many options and variations.',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -320,7 +320,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/png',
-			'url' => 'http://localhost/images/Pina-Colada-Cake-PhotoRoom_bjb6jw39.png',
+			'url' => 'https://queenofthesweets.com/images/Pina-Colada-Cake-PhotoRoom_bjb6jw39.png',
 			'width' => 1080,
 			'height' => 1080
 		),
@@ -382,7 +382,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'PINA COLADA CAKE',
-			'image' => 'http://localhost/images/Pina-Colada-Cake-PhotoRoom_bjb6jw39.png',
+			'image' => 'https://queenofthesweets.com/images/Pina-Colada-Cake-PhotoRoom_bjb6jw39.png',
 			'description' => 'This cake turns your favorite tropical cocktail into one delicious dessert! Coconut cake and pineapple buttercream frosting paired with pineapple mousse and toasted coconut.
 ',
 			'offers' => array(
@@ -459,7 +459,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/png',
-			'url' => 'http://localhost/images/UPDATED-Coffee-cake_e202x4p4.5eaee1189e3d73674077.png',
+			'url' => 'https://queenofthesweets.com/images/UPDATED-Coffee-cake_e202x4p4.5eaee1189e3d73674077.png',
 			'width' => 1080,
 			'height' => 1080
 		),
@@ -521,7 +521,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'COFFEE CAKE',
-			'image' => 'http://localhost/images/UPDATED-Coffee-cake_e202x4p4.5eaee1189e3d73674077.png',
+			'image' => 'https://queenofthesweets.com/images/UPDATED-Coffee-cake_e202x4p4.5eaee1189e3d73674077.png',
 			'description' => 'A tender, perfectly moist cake with the enticing aroma, ribbons of cinnamon filling, and hallmark crumb topping make it a treat at breakfast or as a midday indulgence. Made with just a few pantry staples, coffee cake is a deliciously effortless way to start the day. ',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -583,7 +583,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/png',
-			'url' => 'http://localhost/images/UPDATED-CINNAMON-WALNUT-BISCOTTI_me7rq9ld.6760dfcd24e032681bfa--1-.png',
+			'url' => 'https://queenofthesweets.com/images/UPDATED-CINNAMON-WALNUT-BISCOTTI_me7rq9ld.6760dfcd24e032681bfa--1-.png',
 			'width' => 1080,
 			'height' => 1080
 		),
@@ -640,7 +640,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'CINNAMON WALNUT BISCOTTI',
-			'image' => 'http://localhost/images/UPDATED-CINNAMON-WALNUT-BISCOTTI_me7rq9ld.6760dfcd24e032681bfa--1-.png',
+			'image' => 'https://queenofthesweets.com/images/UPDATED-CINNAMON-WALNUT-BISCOTTI_me7rq9ld.6760dfcd24e032681bfa--1-.png',
 			'description' => '',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -702,7 +702,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/png',
-			'url' => 'http://localhost/images/Rainbow-Cookies-PhotoRoom_r696s1wc.png',
+			'url' => 'https://queenofthesweets.com/images/Rainbow-Cookies-PhotoRoom_r696s1wc.png',
 			'width' => 1080,
 			'height' => 1080
 		),
@@ -759,7 +759,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'RAINBOW COOKIES',
-			'image' => 'http://localhost/images/Rainbow-Cookies-PhotoRoom_r696s1wc.png',
+			'image' => 'https://queenofthesweets.com/images/Rainbow-Cookies-PhotoRoom_r696s1wc.png',
 			'description' => 'Layers of almond cake are sandwiched with raspberry jam before getting coated in chocolate for the prettiest and most delicious rainbow cookies you\'ve ever had.',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -835,7 +835,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/png',
-			'url' => 'http://localhost/images/UPDATED-CarrotCake_a777eibm.83524e1a7e976398f8bc.png',
+			'url' => 'https://queenofthesweets.com/images/UPDATED-CarrotCake_a777eibm.83524e1a7e976398f8bc.png',
 			'width' => 1080,
 			'height' => 1080
 		),
@@ -1008,7 +1008,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'CARROT CAKE',
-			'image' => 'http://localhost/images/UPDATED-CarrotCake_a777eibm.83524e1a7e976398f8bc.png',
+			'image' => 'https://queenofthesweets.com/images/UPDATED-CarrotCake_a777eibm.83524e1a7e976398f8bc.png',
 			'description' => 'Taste the freshness in every bite of this rich carrot cake. This delicious spice cake is speckled with freshly grated carrots, coconut, raisins, walnuts, and a coconut cream cheese filling.',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -1084,7 +1084,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/png',
-			'url' => 'http://localhost/images/UPDATED-Strawberry-Cake_dz03qr1v.b1238ea746eaa7aae8b3.png',
+			'url' => 'https://queenofthesweets.com/images/UPDATED-Strawberry-Cake_dz03qr1v.b1238ea746eaa7aae8b3.png',
 			'width' => 1080,
 			'height' => 1080
 		),
@@ -1257,7 +1257,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'STRAWBERRY CAKE',
-			'image' => 'http://localhost/images/UPDATED-Strawberry-Cake_dz03qr1v.b1238ea746eaa7aae8b3.png',
+			'image' => 'https://queenofthesweets.com/images/UPDATED-Strawberry-Cake_dz03qr1v.b1238ea746eaa7aae8b3.png',
 			'description' => 'With each bite, you get the perfect amount of sweetness and zest from the strawberries. While the strawberries bake down, the natural sugars are released into the vanilla batter amplifying that delicious flavor.',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -1333,7 +1333,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/png',
-			'url' => 'http://localhost/images/UPDATED-ChocolateMint_trp6kzxf.3a0094ccd664c76797b7-1-.png',
+			'url' => 'https://queenofthesweets.com/images/UPDATED-ChocolateMint_trp6kzxf.3a0094ccd664c76797b7-1-.png',
 			'width' => 1080,
 			'height' => 1080
 		),
@@ -1506,7 +1506,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'CHOCOLATE MINT CAKE',
-			'image' => 'http://localhost/images/UPDATED-ChocolateMint_trp6kzxf.3a0094ccd664c76797b7-1-.png',
+			'image' => 'https://queenofthesweets.com/images/UPDATED-ChocolateMint_trp6kzxf.3a0094ccd664c76797b7-1-.png',
 			'description' => 'The PERFECT combo of indulgent chocolate and mint frosting, made with cocoa powder, and peppermint buttercream.',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -1582,7 +1582,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/png',
-			'url' => 'http://localhost/images/UPDATED-ChocolatePeanut_p7zwdj42.66ebf1433798655c6e79--1-.png',
+			'url' => 'https://queenofthesweets.com/images/UPDATED-ChocolatePeanut_p7zwdj42.66ebf1433798655c6e79--1-.png',
 			'width' => 742,
 			'height' => 742
 		),
@@ -1755,7 +1755,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'CHOCOLATE PEANUT BUTTER CAKE',
-			'image' => 'http://localhost/images/UPDATED-ChocolatePeanut_p7zwdj42.66ebf1433798655c6e79--1-.png',
+			'image' => 'https://queenofthesweets.com/images/UPDATED-ChocolatePeanut_p7zwdj42.66ebf1433798655c6e79--1-.png',
 			'description' => 'This is a peanut lover’s dream dessert! A dark chocolate cake with peanut butter buttercream frosting topped with chocolate ganache makes this peanut butter cake decadent and delicious!',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -1831,7 +1831,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/png',
-			'url' => 'http://localhost/images/UPDATED-CREAMSICLE_926qns7s.362d89f15bfb853bc890--1-.png',
+			'url' => 'https://queenofthesweets.com/images/UPDATED-CREAMSICLE_926qns7s.362d89f15bfb853bc890--1-.png',
 			'width' => 1080,
 			'height' => 1080
 		),
@@ -2004,7 +2004,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'CREAMSICLE CAKE',
-			'image' => 'http://localhost/images/UPDATED-CREAMSICLE_926qns7s.362d89f15bfb853bc890--1-.png',
+			'image' => 'https://queenofthesweets.com/images/UPDATED-CREAMSICLE_926qns7s.362d89f15bfb853bc890--1-.png',
 			'description' => 'Looking for a flavorful dessert treat? This cake brings you the best of two worlds and it is stated in name…Creamsicle and Cake. Made with vanilla cake, orange buttercream with an orange mousse filling.',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -2059,7 +2059,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/png',
-			'url' => 'http://localhost/images/Apple-Pie.png',
+			'url' => 'https://queenofthesweets.com/images/Apple-Pie.png',
 			'width' => 990,
 			'height' => 765
 		),
@@ -2224,7 +2224,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'APPLE PIE',
-			'image' => 'http://localhost/images/Apple-Pie.png',
+			'image' => 'https://queenofthesweets.com/images/Apple-Pie.png',
 			'description' => 'There’s nothing better than the smell of the fresh apple pie baking in the oven. It signifies the start of cozy fall days, and it’s the ultimate dessert to kick off the holiday season. Apple pie is best served warm with a big scoop of vanilla ice cream on top.',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -2279,7 +2279,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/png',
-			'url' => 'http://localhost/images/Cherry-Pie.png',
+			'url' => 'https://queenofthesweets.com/images/Cherry-Pie.png',
 			'width' => 800,
 			'height' => 802
 		),
@@ -2444,7 +2444,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'CHERRY PIE',
-			'image' => 'http://localhost/images/Cherry-Pie.png',
+			'image' => 'https://queenofthesweets.com/images/Cherry-Pie.png',
 			'description' => 'Too tart to eat raw, sour cherries were born to be baked into a pie. This all-American version gets added sophistication from a gorgeously flaky crust and a filling, enhanced with an unexpected hint of cinnamon that is not overly sweet.',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -2499,7 +2499,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/png',
-			'url' => 'http://localhost/images/Lemon-Meringue.png',
+			'url' => 'https://queenofthesweets.com/images/Lemon-Meringue.png',
 			'width' => 1600,
 			'height' => 1067
 		),
@@ -2664,7 +2664,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'LEMON MERINGUE',
-			'image' => 'http://localhost/images/Lemon-Meringue.png',
+			'image' => 'https://queenofthesweets.com/images/Lemon-Meringue.png',
 			'description' => 'Want to know what sunshine tastes like? Then try this lemon meringue pie. It’s bursting with fresh citrus flavor topped with a sweet, creamy meringue topping.',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -2726,7 +2726,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/png',
-			'url' => 'http://localhost/images/Orange-Cranberry-Biscotti-v2-copy.png',
+			'url' => 'https://queenofthesweets.com/images/Orange-Cranberry-Biscotti-v2-copy.png',
 			'width' => 1467,
 			'height' => 1080
 		),
@@ -2894,7 +2894,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'ORANGE CRANBERRY BISCOTTI',
-			'image' => 'http://localhost/images/Orange-Cranberry-Biscotti-v2-copy.png',
+			'image' => 'https://queenofthesweets.com/images/Orange-Cranberry-Biscotti-v2-copy.png',
 			'description' => '',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -2956,7 +2956,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/png',
-			'url' => 'http://localhost/images/VANNILLA-ALMOND-BISCOTTI--7--copy.png',
+			'url' => 'https://queenofthesweets.com/images/VANNILLA-ALMOND-BISCOTTI--7--copy.png',
 			'width' => 1379,
 			'height' => 1080
 		),
@@ -3124,7 +3124,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'VANNILLA ALMOND BISCOTTI',
-			'image' => 'http://localhost/images/VANNILLA-ALMOND-BISCOTTI--7--copy.png',
+			'image' => 'https://queenofthesweets.com/images/VANNILLA-ALMOND-BISCOTTI--7--copy.png',
 			'description' => '',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -3186,7 +3186,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/png',
-			'url' => 'http://localhost/images/Linzer-Tarts-v5-copy.png',
+			'url' => 'https://queenofthesweets.com/images/Linzer-Tarts-v5-copy.png',
 			'width' => 1392,
 			'height' => 1080
 		),
@@ -3354,7 +3354,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'LINZER TARTS',
-			'image' => 'http://localhost/images/Linzer-Tarts-v5-copy.png',
+			'image' => 'https://queenofthesweets.com/images/Linzer-Tarts-v5-copy.png',
 			'description' => 'Nothing could be more festive on the holiday table than a tray of these buttery, confectioners\' sugar-dusted, jam-packed cookies. The hint of lemon in the dough nicely complements any number of fillings, from raspberry jam to lemon curd.',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -3416,7 +3416,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/png',
-			'url' => 'http://localhost/images/Chocolate-Biscotti-v2-copy.png',
+			'url' => 'https://queenofthesweets.com/images/Chocolate-Biscotti-v2-copy.png',
 			'width' => 1080,
 			'height' => 1080
 		),
@@ -3584,7 +3584,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'CHOCOLATE BISCOTTI',
-			'image' => 'http://localhost/images/Chocolate-Biscotti-v2-copy.png',
+			'image' => 'https://queenofthesweets.com/images/Chocolate-Biscotti-v2-copy.png',
 			'description' => '',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -3624,7 +3624,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/png',
-			'url' => 'http://localhost/images/48-Assortment-Cokkies-copy.png',
+			'url' => 'https://queenofthesweets.com/images/48-Assortment-Cokkies-copy.png',
 			'width' => 1094,
 			'height' => 1080
 		),
@@ -3792,7 +3792,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => '48 ASSORTED COOKIES',
-			'image' => 'http://localhost/images/48-Assortment-Cokkies-copy.png',
+			'image' => 'https://queenofthesweets.com/images/48-Assortment-Cokkies-copy.png',
 			'description' => '',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -3832,7 +3832,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/png',
-			'url' => 'http://localhost/images/36-Assorted-Cookies-copy.png',
+			'url' => 'https://queenofthesweets.com/images/36-Assorted-Cookies-copy.png',
 			'width' => 879,
 			'height' => 874
 		),
@@ -4000,7 +4000,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => '36 ASSORTED COOKIES',
-			'image' => 'http://localhost/images/36-Assorted-Cookies-copy.png',
+			'image' => 'https://queenofthesweets.com/images/36-Assorted-Cookies-copy.png',
 			'description' => '',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -4076,7 +4076,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/png',
-			'url' => 'http://localhost/images/CHOCOLATE-STRAWBERRY-CAKE-copy.png',
+			'url' => 'https://queenofthesweets.com/images/CHOCOLATE-STRAWBERRY-CAKE-copy.png',
 			'width' => 167,
 			'height' => 171
 		),
@@ -4249,7 +4249,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'CHOCOLATE STRAWBERRY CAKE',
-			'image' => 'http://localhost/images/CHOCOLATE-STRAWBERRY-CAKE-copy.png',
+			'image' => 'https://queenofthesweets.com/images/CHOCOLATE-STRAWBERRY-CAKE-copy.png',
 			'description' => 'This Chocolate Strawberry Cake is a moist chocolate layer cake with a strawberry mousse filling and covered in a chocolate strawberry ganache. Topped with fresh strawberries.',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -4325,7 +4325,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/png',
-			'url' => 'http://localhost/images/CARAMEL-MACCHIATO-CAKE--2--copy.png',
+			'url' => 'https://queenofthesweets.com/images/CARAMEL-MACCHIATO-CAKE--2--copy.png',
 			'width' => 156,
 			'height' => 154
 		),
@@ -4498,7 +4498,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'CARAMEL MACCHIATO CAKE',
-			'image' => 'http://localhost/images/CARAMEL-MACCHIATO-CAKE--2--copy.png',
+			'image' => 'https://queenofthesweets.com/images/CARAMEL-MACCHIATO-CAKE--2--copy.png',
 			'description' => 'This cake embodies everything the latte boasts. A rich vanilla cake layered with smooth and silky expresso buttercream and finished with drizzles of caramel. The cake has a bold coffee flavor that is well balanced with the sweet caramel topping.',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -4574,7 +4574,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/png',
-			'url' => 'http://localhost/images/20220708_184649-copy.png',
+			'url' => 'https://queenofthesweets.com/images/20220708_184649-copy.png',
 			'width' => 1080,
 			'height' => 1080
 		),
@@ -4747,7 +4747,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'DULCE DE LECHE CAKE',
-			'image' => 'http://localhost/images/20220708_184649-copy.png',
+			'image' => 'https://queenofthesweets.com/images/20220708_184649-copy.png',
 			'description' => 'This delightful cake features soft and moist butter cake layers filled and iced with heavenly sweet caramel buttercream frosting topped with a salted caramel sauce. You cannot resist the deep flavor of the luscious caramel sauce that is dulce de leche.',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -4823,7 +4823,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/png',
-			'url' => 'http://localhost/images/GERMAN-CHOCOLATE-CAKE--2--copy.png',
+			'url' => 'https://queenofthesweets.com/images/GERMAN-CHOCOLATE-CAKE--2--copy.png',
 			'width' => 137,
 			'height' => 144
 		),
@@ -4996,7 +4996,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'GERMAN CHOCOLATE CAKE',
-			'image' => 'http://localhost/images/GERMAN-CHOCOLATE-CAKE--2--copy.png',
+			'image' => 'https://queenofthesweets.com/images/GERMAN-CHOCOLATE-CAKE--2--copy.png',
 			'description' => 'This cake is a classic! The moist chocolate cake paired with the coconut pecan filling and the chocolate frosting is just delicious together!',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -5072,7 +5072,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/png',
-			'url' => 'http://localhost/images/WHITE-CHOCOLATE-CAKE-copy.png',
+			'url' => 'https://queenofthesweets.com/images/WHITE-CHOCOLATE-CAKE-copy.png',
 			'width' => 168,
 			'height' => 170
 		),
@@ -5245,7 +5245,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'WHITE CHOCOLATE CAKE',
-			'image' => 'http://localhost/images/WHITE-CHOCOLATE-CAKE-copy.png',
+			'image' => 'https://queenofthesweets.com/images/WHITE-CHOCOLATE-CAKE-copy.png',
 			'description' => 'This white chocolate raspberry cake features two layers of white chocolate cake, a sweet-tart raspberry mousse, and plenty of white chocolate buttercream finished with fresh raspberries on top!',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -5285,7 +5285,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/png',
-			'url' => 'http://localhost/images/Animal-Birthday-Cake-v1-copy-2.png',
+			'url' => 'https://queenofthesweets.com/images/Animal-Birthday-Cake-v1-copy-2.png',
 			'width' => 704,
 			'height' => 1080
 		),
@@ -5459,7 +5459,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'ANIMAL BIRTHDAY CAKE',
-			'image' => 'http://localhost/images/Animal-Birthday-Cake-v1-copy-2.png',
+			'image' => 'https://queenofthesweets.com/images/Animal-Birthday-Cake-v1-copy-2.png',
 			'description' => '',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -5499,7 +5499,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/png',
-			'url' => 'http://localhost/images/Flower-Birthday-Cake-copy.png',
+			'url' => 'https://queenofthesweets.com/images/Flower-Birthday-Cake-copy.png',
 			'width' => 1043,
 			'height' => 1080
 		),
@@ -5673,7 +5673,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'FLOWER BIRTHDAY CAKE',
-			'image' => 'http://localhost/images/Flower-Birthday-Cake-copy.png',
+			'image' => 'https://queenofthesweets.com/images/Flower-Birthday-Cake-copy.png',
 			'description' => '',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -5713,7 +5713,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/png',
-			'url' => 'http://localhost/images/Noahs-Ark-v1-copy.png',
+			'url' => 'https://queenofthesweets.com/images/Noahs-Ark-v1-copy.png',
 			'width' => 807,
 			'height' => 1080
 		),
@@ -5887,7 +5887,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'NOAH\'S ARK',
-			'image' => 'http://localhost/images/Noahs-Ark-v1-copy.png',
+			'image' => 'https://queenofthesweets.com/images/Noahs-Ark-v1-copy.png',
 			'description' => '',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -5927,7 +5927,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/png',
-			'url' => 'http://localhost/images/Painters-Birthday-Cake-V1-copy.png',
+			'url' => 'https://queenofthesweets.com/images/Painters-Birthday-Cake-V1-copy.png',
 			'width' => 806,
 			'height' => 1080
 		),
@@ -6101,7 +6101,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'PAINTER\'S BIRTHDAY CAKE',
-			'image' => 'http://localhost/images/Painters-Birthday-Cake-V1-copy.png',
+			'image' => 'https://queenofthesweets.com/images/Painters-Birthday-Cake-V1-copy.png',
 			'description' => '',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -6141,7 +6141,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/png',
-			'url' => 'http://localhost/images/IMG_0272-copy.png',
+			'url' => 'https://queenofthesweets.com/images/IMG_0272-copy.png',
 			'width' => 1717,
 			'height' => 1080
 		),
@@ -6315,7 +6315,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'PENGUINS ON ICE',
-			'image' => 'http://localhost/images/IMG_0272-copy.png',
+			'image' => 'https://queenofthesweets.com/images/IMG_0272-copy.png',
 			'description' => '',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -6355,7 +6355,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/png',
-			'url' => 'http://localhost/images/Poker-Lover-Cake-copy.png',
+			'url' => 'https://queenofthesweets.com/images/Poker-Lover-Cake-copy.png',
 			'width' => 1158,
 			'height' => 1080
 		),
@@ -6529,7 +6529,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'POKER LOVER CAKE',
-			'image' => 'http://localhost/images/Poker-Lover-Cake-copy.png',
+			'image' => 'https://queenofthesweets.com/images/Poker-Lover-Cake-copy.png',
 			'description' => '',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -6569,7 +6569,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/png',
-			'url' => 'http://localhost/images/IMG_0671-copy.png',
+			'url' => 'https://queenofthesweets.com/images/IMG_0671-copy.png',
 			'width' => 1183,
 			'height' => 1080
 		),
@@ -6743,7 +6743,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'RACOONS IN FOREST',
-			'image' => 'http://localhost/images/IMG_0671-copy.png',
+			'image' => 'https://queenofthesweets.com/images/IMG_0671-copy.png',
 			'description' => '',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -6783,7 +6783,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/png',
-			'url' => 'http://localhost/images/Roblox-Birthday-Cake-v1-copy.png',
+			'url' => 'https://queenofthesweets.com/images/Roblox-Birthday-Cake-v1-copy.png',
 			'width' => 1243,
 			'height' => 1080
 		),
@@ -6957,7 +6957,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'ROBLOX BIRTHDAY CAKE',
-			'image' => 'http://localhost/images/Roblox-Birthday-Cake-v1-copy.png',
+			'image' => 'https://queenofthesweets.com/images/Roblox-Birthday-Cake-v1-copy.png',
 			'description' => '',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -6997,7 +6997,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/png',
-			'url' => 'http://localhost/images/Watermelon-Cake--1--copy.png',
+			'url' => 'https://queenofthesweets.com/images/Watermelon-Cake--1--copy.png',
 			'width' => 653,
 			'height' => 903
 		),
@@ -7171,7 +7171,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'WATERMELON CAKE',
-			'image' => 'http://localhost/images/Watermelon-Cake--1--copy.png',
+			'image' => 'https://queenofthesweets.com/images/Watermelon-Cake--1--copy.png',
 			'description' => '',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -7211,7 +7211,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/png',
-			'url' => 'http://localhost/images/Wedding-Cake--1-copy.png',
+			'url' => 'https://queenofthesweets.com/images/Wedding-Cake--1-copy.png',
 			'width' => 794,
 			'height' => 975
 		),
@@ -7385,7 +7385,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'WEDDING CAKE',
-			'image' => 'http://localhost/images/Wedding-Cake--1-copy.png',
+			'image' => 'https://queenofthesweets.com/images/Wedding-Cake--1-copy.png',
 			'description' => '',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -7425,7 +7425,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/png',
-			'url' => 'http://localhost/images/Halloween-Birthday-Cake-v1-copy.png',
+			'url' => 'https://queenofthesweets.com/images/Halloween-Birthday-Cake-v1-copy.png',
 			'width' => 1039,
 			'height' => 1080
 		),
@@ -7599,7 +7599,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'HALLOWEEN BIRTHDAY CAKE',
-			'image' => 'http://localhost/images/Halloween-Birthday-Cake-v1-copy.png',
+			'image' => 'https://queenofthesweets.com/images/Halloween-Birthday-Cake-v1-copy.png',
 			'description' => '',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -7675,7 +7675,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/png',
-			'url' => 'http://localhost/images/IMG_0045-copy.png',
+			'url' => 'https://queenofthesweets.com/images/IMG_0045-copy.png',
 			'width' => 1021,
 			'height' => 1080
 		),
@@ -7848,7 +7848,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'PEAR UPSIDE-DOWN CAKE',
-			'image' => 'http://localhost/images/IMG_0045-copy.png',
+			'image' => 'https://queenofthesweets.com/images/IMG_0045-copy.png',
 			'description' => 'Caramelized bottom with fresh pears and a spiced cake layer. This pear upside-down cake is perfect for fall entertaining.',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -7888,7 +7888,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/png',
-			'url' => 'http://localhost/images/Mermaid-Cake-copy.png',
+			'url' => 'https://queenofthesweets.com/images/Mermaid-Cake-copy.png',
 			'width' => 844,
 			'height' => 642
 		),
@@ -8062,7 +8062,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'MERMAID CAKE',
-			'image' => 'http://localhost/images/Mermaid-Cake-copy.png',
+			'image' => 'https://queenofthesweets.com/images/Mermaid-Cake-copy.png',
 			'description' => '',
 			'offers' => array(
 				'@type' => 'Offer',
