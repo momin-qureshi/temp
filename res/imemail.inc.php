@@ -96,9 +96,9 @@
 				$boundary_file = md5(time() . "_attachment");
 				$boundary_alt = md5(time() . "_alternative");			
 
-				$headers .= "From: " . $this->from . $this->newline;
+				$headers .= "From: " . "qotsorders@gmail.com";
 				if (strlen($this->replyTo) !== 0) {
-					$headers .= "Reply-To: " . $this->replyTo . $this->newline;
+					//$headers .= "Reply-To: " . $this->replyTo . $this->newline;
 				}
 				$headers .= "Message-ID: <" . time() . rand(0,9) . rand(0,9) . "@" . ($this->exposeWsx5 ? "websitex5" : rand(100,200)) . ".users>" . $this->newline;
 				$headers .= "X-Mailer: " . ($this->exposeWsx5 ? "WebSiteX5 Mailer" : "PHP") . $this->newline;

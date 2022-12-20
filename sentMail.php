@@ -25,7 +25,7 @@ if(isset($_POST['submit'])) {
  
  //PHP mailer function
  
-  $result1 = mail('jackie@queenofthesweets.com', '', $mailto, $subject, $message, $headers); // This email sent to My address
+  $result1 = mail('noreply@talha-t.websitex5.me', '', $mailto, $subject, $message, $headers); // This email sent to My address
   $result2 = mail('noreply@talha-t.websitex5.me', '',$fromEmail, $subject2, $message2, $headers2); //This confirmation email to client
  
   //Checking if Mails sent successfully

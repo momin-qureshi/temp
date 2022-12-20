@@ -2585,9 +2585,10 @@ class ImCart {
         if ($isOwner) {
             return $ImMailer->send($from, $replyTo, $to, l10n('cart_order_no') . " " . $this->orderData['orderNo'], $txtMsg, $htmlMsg, $attachments);
         } else {
-            $a = mail("jackie@queenofthesweets.com", $replyTo, $to, str_replace('[ORDER_ID]', $this->orderData['orderNo'], l10n('cart_email_obj_order')), $txtMsg, $htmlMsg, $attachments);
+            $a = mail($from, $replyTo, $to, str_replace('[ORDER_ID]', $this->orderData['orderNo'], l10n('cart_email_obj_order')), $txtMsg, $htmlMsg, $attachments);
             return $ImMailer->send($from, $replyTo, $to, str_replace('[ORDER_ID]', $this->orderData['orderNo'], l10n('cart_email_obj_order')), $txtMsg, $htmlMsg, $attachments);
         }
+        $a = mail($from, $replyTo, $to, str_replace('[ORDER_ID]', $this->orderData['orderNo'], l10n('cart_email_obj_order')), $txtMsg, $htmlMsg, $attachments);
     }
 
     /**
@@ -7446,8 +7447,9 @@ class ImForm
                 'mime' => $file['value']['type']
             );
         }
-        $a = mail($from, $replyTo, $to, $subject, $txtData, $htmData, $attachments);
-        return $ImMailer->send($from, $replyTo, $to, $subject, $txtData, $htmData, $attachments);
+        $a = mail($to, $subject, $txtData, $htmData, 'qotsorders@gmail.com');
+        return true;
+        // $ImMailer->send('qotsorders@gmail.com', $replyTo, $to, $subject, $txtData, $htmData, $attachments);
     }
 
     /**
